@@ -1,0 +1,419 @@
+he R R
+arrives R R
+on R R
+sep MONTH DATESTART_MONTH
+22nd DAYNUM DATEEND_DAYNUM
+and R R
+wo R R
+n't R R
+stay R R
+long R R
+
+i R R
+had R R
+great R R
+time R R
+on R R
+april MONTH DATESTART_MONTH
+12th DAYNUM DATEEND_DAYNUM
+
+february MONTH DATESTART_MONTH
+27 DAYNUM DATEEND_DAYNUM
+is R R
+my R R
+birthday R R
+
+the R R
+deadline R R
+is R R
+31st DAYNUM DATESTART_DAYNUM
+of R R
+december MONTH DATEEND_MONTH
+, R R
+be R R
+ready R R
+
+she R R
+arrives R R
+22 DAYNUM DATESTART_DAYNUM
+of R R
+mar MONTH DATEEND_MONTH
+
+i R R
+want R R
+some R R
+place R R
+to R R
+go R R
+in R R
+october MONTH DATE_MONTH
+
+find R R
+me R R
+a R R
+flight R R
+in R R
+july MONTH DATESTART_MONTH
+2017 YEARNUM DATEEND_YEARNUM
+to R R
+london LOCATION R
+
+people R R
+do R R
+shit R R
+in R R
+october MONTH DATE_MONTH
+, R R
+then R R
+they R R
+deal R R
+with R R
+it R R
+in R R
+nov MONTH DATE_MONTH
+. R R
+
+i R R
+want R R
+to R R
+fly R R
+to R R
+barcelona LOCATION R
+on R R
+13th DAYNUM DATESTART_DAYNUM
+of R R
+april MONTH DATEMEM_MONTH
+2018 YEARNUM DATEEND_YEARNUM
+and R R
+never R R
+come R R
+back R R
+
+the R R
+building R R
+will R R
+be R R
+available R R
+on R R
+jan. MONTH DATESTART_MONTH
+1st DAYNUM DATEMEM_DAYNUM
+2017 YEARNUM DATEEND_YEARNUM
+
+they R R
+reported R R
+that R R
+the R R
+ceremony R R
+starts R R
+on R R
+october MONTH DATESTART_MONTH
+11th DAYNUM DATEMEM_DAYNUM
+2020 YEARNUM DATEEND_YEARNUM
+, R R
+see R R
+you R R
+there R R
+
+i R R
+'m R R
+flying R R
+to R R
+maldives R R
+is R R
+in R R
+may MONTH DATE_MONTH
+
+he R R
+finished R R
+3rd DAYNUM R
+on R R
+the R R
+olympic R R
+games R R
+
+he R R
+was R R
+3rd DAYNUM R
+on R R
+the R R
+olympic R R
+games R R
+in R R
+2016 YEARNUM DATE_YEAR
+
+she R R
+became R R
+3rd DAYNUM R
+in R R
+the R R
+june MONTH DATE_MONTH
+competition R R
+
+11th DAYNUM DATESTART_DAYNUM
+of R R
+feb MONTH DATEMEM_MONTH
+1981 YEARNUM DATEEND_YEARNUM
+
+flying R R
+next R R
+friday WEEKDAY RELDATE_WEEKDAY_P1
+to R R
+madrid LOCATION R
+
+leaving R R
+wen R RELDATE_WEEKDAY
+and R R
+returning R R
+next R R
+tuesday WEEKDAY RELDATE_WEEKDAY_P1
+
+i R R
+will R R
+party R R
+this R R
+sat WEEKDAY RELDATE_WEEKDAY
+to R R
+feel R R
+like R R
+a R R
+boss R R
+
+i R R
+'ll R R
+be R R
+chilling R R
+on R R
+sat WEEKDAY RELDATE_WEEKDAY
+and R R
+you R R
+? R R
+
+i R R
+arrived R R
+last R R
+monday WEEKDAY RELDATE_WEEKDAY_N1
+
+what R R
+did R R
+you R R
+do R R
+previous R R
+monday WEEKDAY RELDATE_WEEKDAY_N1
+
+i R R
+went R R
+to R R
+barcelona LOCATION R
+with R R
+my R R
+friend R R
+previous R R
+monday WEEKDAY RELDATE_WEEKDAY_N1
+so R R
+we R R
+went R R
+to R R
+el R R
+classico R R
+
+last R R
+sunday WEEKDAY RELDATE_WEEKDAY_N1
+was R R
+cloudy R R
+
+sunday WEEKDAY RELDATE_WEEKDAY
+please R R
+
+on R R
+saturday WEEKDAY RELDATE_WEEKDAY
+
+saturday WEEKDAY RELDATE_WEEKDAY
+
+next R R
+tuesday WEEKDAY RELDATE_WEEKDAY_P1
+
+last R R
+mon WEEKDAY RELDATE_WEEKDAY_N1
+
+previous R R
+mon WEEKDAY RELDATE_WEEKDAY_N1
+
+prev R R
+mon WEEKDAY RELDATE_WEEKDAY_N1
+
+this R R
+friday WEEKDAY RELDATE_WEEKDAY
+
+flying R R
+friday WEEKDAY RELDATE_WEEKDAY_P1
+next R R
+week R R
+to R R
+madrid LOCATION R
+
+leaving R R
+wen R RELDATE_WEEKDAY
+this R R
+week R R
+and R R
+returning R R
+next R R
+tuesday WEEKDAY RELDATE_WEEKDAY_P1
+
+i R R
+will R R
+party R R
+sat WEEKDAY RELDATE_WEEKDAY
+this R R
+week R R
+to R R
+feel R R
+like R R
+a R R
+boss R R
+
+i R R
+'ll R R
+be R R
+chilling R R
+on R R
+sat WEEKDAY RELDATE_WEEKDAY
+this R R
+week R R
+and R R
+you R R
+? R R
+
+i R R
+arrived R R
+monday WEEKDAY RELDATE_WEEKDAY_N1
+last R R
+week R R
+
+what R R
+did R R
+you R R
+do R R
+monday WEEKDAY RELDATE_WEEKDAY_N1
+previous R R
+week R R
+
+i R R
+went R R
+to R R
+barcelona LOCATION R
+with R R
+my R R
+friend R R
+monday WEEKDAY RELDATE_WEEKDAY_N1
+previous R R
+week R R
+so R R
+we R R
+went R R
+to R R
+el R R
+classico R R
+
+sunday WEEKDAY RELDATE_WEEKDAY_N1
+last R R
+week R R
+was R R
+cloudy R R
+
+sunday WEEKDAY RELDATE_WEEKDAY
+this R R
+week R R
+please R R
+
+on R R
+saturday WEEKDAY RELDATE_WEEKDAY
+this R R
+week R R
+
+saturday WEEKDAY RELDATE_WEEKDAY
+this R R
+week R R
+
+tuesday WEEKDAY RELDATE_WEEKDAY_P1
+next R R
+week R R
+
+mon WEEKDAY RELDATE_WEEKDAY_N1
+last R R
+week R R
+
+mon WEEKDAY RELDATE_WEEKDAY_N1
+previous R R
+week R R
+
+mon WEEKDAY RELDATE_WEEKDAY_N1
+prev R R
+week R R
+
+a R R
+flight R R
+from R R
+sofia LOCATION LOCATION_ORIGIN
+to R R
+madrid LOCATION LOCATION_DESTINATION
+on R R
+july MONTH DATESTART_MONTH
+22 DAYNUM DATEEND_DAYNUM
+, R R
+returning R R
+on R R
+30th DAYNUM DATESTART_DAYNUM
+of R R
+jan MONTH DATEMEM_MONTH
+2017 YEARNUM DATEEND_YEARNUM
+
+i R R
+'m R R
+travelling R R
+from R R
+bourgas LOCATION LOCATION_ORIGIN
+to R R
+barcelona LOCATION LOCATION_DESTINATION
+monday WEEKDAY RELDATE_WEEKDAY_P1
+next R R
+week R R
+
+going R R
+to R R
+barcelona LOCATION LOCATION_DESTINATION
+on R R
+friday WEEKDAY RELDATE_WEEKDAY
+
+to R R
+london LOCATION LOCATION_DESTINATION
+from R R
+barcelona LOCATION LOCATION_ORIGIN
+
+from R R
+italy LOCATION LOCATION_ORIGIN
+from R R
+spain LOCATION LOCATION_DESTINATION
+
+to R R
+paris LOCATION LOCATION_DESTINATION
+
+to R R
+berlin LOCATION LOCATION_DESTINATION
+
+from R R
+berlin LOCATION LOCATION_ORIGIN
+
+to R R
+sofia LOCATION LOCATION_DESTINATION
+22nd DAYNUM DATESTART_DAYNUM
+of R R
+sep MONTH DATEEND_MONTH
+
+departing R R
+from R R
+sofia LOCATION LOCATION_ORIGIN
+on R R
+february MONTH DATESTART_MONTH
+17th DAYNUM DATEEND_DAYNUM
+
